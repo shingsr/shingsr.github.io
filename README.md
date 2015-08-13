@@ -1,0 +1,2 @@
+# shingsr.github.io
+blog
